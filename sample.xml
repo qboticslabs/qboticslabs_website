@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contents>
+	<Owners>
+		<Owner>
+			<Name>Joselito Dimaculangan</Name>
+			<Age>16</Age>
+			<EmailAddress>joselito123@gmail.com</EmailAddress>
+		</Owner>
+		<Owner>
+			<Name>Noemi De Galileo</Name>
+			<Age>14</Age>
+			<EmailAddress>noemi111@gmail.com</EmailAddress>
+		</Owner>
+	</Owners>
+	<Dogs>
+		<Dog>
+			<Name>Barky</Name>
+			<Birthday>June 29, 2012</Birthday>
+		</Dog>
+		<Dog>
+			<Name>Jumbo</Name>
+			<Birthday>December 30, 2012</Birthday>
+		</Dog>
+	</Dogs>
+</Contents>

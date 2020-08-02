@@ -1,0 +1,99 @@
+<!-- Ticket XML with all fields -->
+<!-- Ticket XML with empty fields -->
+<tickets>
+	<ticket>
+		<BOOKING_ID>1</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Kochi School</NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>59</NO_PERS>
+
+		<RESTAURANT_NM>WOOD HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Ladies Changing Room</LOCATION>
+	</ticket>
+	
+<!-- Ticket XML with all fields -->
+	<ticket>
+		<BOOKING_ID>2</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Choice School </NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>20</NO_PERS>
+
+		<RESTAURANT_NM>WONDERLA HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Mens Changing Room</LOCATION>
+	</ticket>
+	
+	<!-- Ticket XML with all fields -->
+	<ticket>
+		<BOOKING_ID>3</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Kurumassery School </NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>20</NO_PERS>
+
+		<RESTAURANT_NM>WONDERLA HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Mens Changing Room</LOCATION>
+	</ticket>
+	
+	<!-- Ticket XML with all fields -->
+	<ticket>
+		<BOOKING_ID>4</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Choice 2 School </NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>20</NO_PERS>
+
+		<RESTAURANT_NM>WONDERLA HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Mens Changing Room</LOCATION>
+	</ticket>
+	
+	<!-- Ticket XML with all fields -->
+	<ticket>
+		<BOOKING_ID>5</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Hello School </NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>20</NO_PERS>
+
+		<RESTAURANT_NM>WONDERLA HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Mens Changing Room</LOCATION>
+	</ticket>
+	
+	<!-- Ticket XML with all fields -->
+	<ticket>
+		<BOOKING_ID>6</BOOKING_ID>
+		<BOOKING_DT>19-NOV-18 12.00.00.000000000 AM</BOOKING_DT>
+		<NAME> Choice School </NAME>
+		<DISTRICT_NAME>Ernakulam</DISTRICT_NAME>
+		<NO_PERS>20</NO_PERS>
+
+		<RESTAURANT_NM>WONDERLA HOUSE </RESTAURANT_NM>
+		<MEALS_TYPE>Lunch</MEALS_TYPE>
+		<TIME_SLOT>12:00 P.M.</TIME_SLOT>
+		<LOCKER_NO>0</LOCKER_NO>
+		
+		<LOCATION>Mens Changing Room</LOCATION>
+	</ticket>
+	
+</tickets>
